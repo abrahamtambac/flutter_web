@@ -78,7 +78,7 @@ class _LandingPageState extends State<LandingPage> {
                       children: [
                         // NOTE : NAVIGATION
                         navItem(
-                          title: 'Home',
+                          title: 'Beranda',
                           index: 0,
                         ),
 
